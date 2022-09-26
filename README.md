@@ -1,0 +1,2 @@
+# aplicadorEncuesta
+ Version firebase 
