@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804767650270",
+    "firebase_url": "https://generadorcg-25707-default-rtdb.firebaseio.com",
+    "project_id": "generadorcg-25707",
+    "storage_bucket": "generadorcg-25707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804767650270:android:5c5e88f7ea4667e1da4d4f",
+        "android_client_info": {
+          "package_name": "com.centrogeo.aplicadorEncuestas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804767650270-vfpentkeo5ajrmvsaald32nungciq1h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centrogeo.aplicadorEncuestas",
+            "certificate_hash": "fa69c1098a86af8034595e6af8b7b0bb93c572e8"
+          }
+        },
+        {
+          "client_id": "804767650270-c9qvmqpnlmc88vh8aq7d2iarmjmgu86b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvUMEhCxdQXNOm-SylU0itCXt6yLXeeT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804767650270-c9qvmqpnlmc88vh8aq7d2iarmjmgu86b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
